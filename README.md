@@ -4,22 +4,22 @@
 https://youtu.be/58wq60EAqIY?t=617
 
 ### Слайд 10 "Архитектура ОС Аврора"
-https://developer.auroraos.ru/doc/ platform/architecture
+https://developer.auroraos.ru/doc/platform/architecture
 
-https://developer.android.com/ guide/platform
+https://developer.android.com/guide/platform
 
 ### Слайд 16 "Процесс разработки"
-https://www.youtube.com/ watch?v=5r24vEuqjsA&t=957s
+https://www.youtube.com/watch?v=5r24vEuqjsA&t=957s
 
 ### Слайд 23 "VS  Code  Remote?"
-https://code.visualstudio.com/ docs/remote/remote-overview
+https://code.visualstudio.com/docs/remote/remote-overview
 
 ### Слайд 26 "Документация"
 https://developer.auroraos.ru/doc
 
 https://doc.qt.io/archives/qt-5.6/
 
-https://www.freedesktop.org/ wiki/Software/
+https://www.freedesktop.org/wiki/Software/
 
 ### Слайд 27 "Примеры, документация…"
 https://gitlab.com/omprussia/examples
@@ -39,7 +39,7 @@ https://gitlab.com/omprussia/flutter/flutter-plugins
 https://ru.wikipedia.org/wiki/D-Bus
 
 ### Слайд 67 "Push Service "
-https://pub-aurora.friflex.com/packages/ aurora_push_service
+https://pub-aurora.friflex.com/packages/aurora_push_service
 
 
 
